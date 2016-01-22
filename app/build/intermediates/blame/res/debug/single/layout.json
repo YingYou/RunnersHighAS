@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/yw/Documents/RunnersHigh/app/build/intermediates/res/merged/debug/layout/menu.xml",
+        "source": "/Users/yw/Documents/RunnersHigh/app/src/main/res/layout/menu.xml"
+    },
+    {
+        "merged": "/Users/yw/Documents/RunnersHigh/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/yw/Documents/RunnersHigh/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/yw/Documents/RunnersHigh/app/build/intermediates/res/merged/debug/layout/highscore.xml",
+        "source": "/Users/yw/Documents/RunnersHigh/app/src/main/res/layout/highscore.xml"
+    },
+    {
+        "merged": "/Users/yw/Documents/RunnersHigh/app/build/intermediates/res/merged/debug/layout/list_single_row.xml",
+        "source": "/Users/yw/Documents/RunnersHigh/app/src/main/res/layout/list_single_row.xml"
+    },
+    {
+        "merged": "/Users/yw/Documents/RunnersHigh/app/build/intermediates/res/merged/debug/layout/highscoreform.xml",
+        "source": "/Users/yw/Documents/RunnersHigh/app/src/main/res/layout/highscoreform.xml"
+    },
+    {
+        "merged": "/Users/yw/Documents/RunnersHigh/app/build/intermediates/res/merged/debug/layout/info.xml",
+        "source": "/Users/yw/Documents/RunnersHigh/app/src/main/res/layout/info.xml"
+    },
+    {
+        "merged": "/Users/yw/Documents/RunnersHigh/app/build/intermediates/res/merged/debug/layout/test.xml",
+        "source": "/Users/yw/Documents/RunnersHigh/app/src/main/res/layout/test.xml"
+    },
+    {
+        "merged": "/Users/yw/Documents/RunnersHigh/app/build/intermediates/res/merged/debug/layout/runnershigh.xml",
+        "source": "/Users/yw/Documents/RunnersHigh/app/src/main/res/layout/runnershigh.xml"
+    },
+    {
+        "merged": "/Users/yw/Documents/RunnersHigh/app/build/intermediates/res/merged/debug/layout/list_row.xml",
+        "source": "/Users/yw/Documents/RunnersHigh/app/src/main/res/layout/list_row.xml"
+    }
+]

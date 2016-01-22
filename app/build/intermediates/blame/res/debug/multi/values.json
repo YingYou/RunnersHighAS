@@ -1,0 +1,311 @@
+[
+    {
+        "outputFile": "/Users/yw/Documents/RunnersHigh/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 62,
+                    "endOffset": 113
+                },
+                "from": {
+                    "file": "/Users/yw/Documents/RunnersHigh/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 108,
+                        "endColumn": 62,
+                        "endOffset": 166
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 118,
+                    "endColumn": 52,
+                    "endOffset": 166
+                },
+                "from": {
+                    "file": "/Users/yw/Documents/RunnersHigh/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 52,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 171,
+                    "endColumn": 71,
+                    "endOffset": 238
+                },
+                "from": {
+                    "file": "/Users/yw/Documents/RunnersHigh/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 1,
+                        "startOffset": 571,
+                        "endColumn": 68,
+                        "endOffset": 638
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 243,
+                    "endColumn": 53,
+                    "endOffset": 292
+                },
+                "from": {
+                    "file": "/Users/yw/Documents/RunnersHigh/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 1,
+                        "startOffset": 401,
+                        "endColumn": 50,
+                        "endOffset": 450
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 297,
+                    "endColumn": 54,
+                    "endOffset": 347
+                },
+                "from": {
+                    "file": "/Users/yw/Documents/RunnersHigh/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 349,
+                        "endColumn": 51,
+                        "endOffset": 399
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 352,
+                    "endColumn": 58,
+                    "endOffset": 406
+                },
+                "from": {
+                    "file": "/Users/yw/Documents/RunnersHigh/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 1,
+                        "startOffset": 452,
+                        "endColumn": 55,
+                        "endOffset": 506
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 411,
+                    "endColumn": 56,
+                    "endOffset": 463
+                },
+                "from": {
+                    "file": "/Users/yw/Documents/RunnersHigh/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 240,
+                        "endColumn": 53,
+                        "endOffset": 292
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 468,
+                    "endColumn": 57,
+                    "endOffset": 521
+                },
+                "from": {
+                    "file": "/Users/yw/Documents/RunnersHigh/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 294,
+                        "endColumn": 54,
+                        "endOffset": 347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 526,
+                    "endColumn": 71,
+                    "endOffset": 593
+                },
+                "from": {
+                    "file": "/Users/yw/Documents/RunnersHigh/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 1,
+                        "startOffset": 697,
+                        "endColumn": 68,
+                        "endOffset": 764
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 598,
+                    "endColumn": 73,
+                    "endOffset": 667
+                },
+                "from": {
+                    "file": "/Users/yw/Documents/RunnersHigh/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 1,
+                        "startOffset": 766,
+                        "endColumn": 70,
+                        "endOffset": 835
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 672,
+                    "endColumn": 56,
+                    "endOffset": 724
+                },
+                "from": {
+                    "file": "/Users/yw/Documents/RunnersHigh/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 1,
+                        "startOffset": 837,
+                        "endColumn": 53,
+                        "endOffset": 889
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 729,
+                    "endColumn": 65,
+                    "endOffset": 790
+                },
+                "from": {
+                    "file": "/Users/yw/Documents/RunnersHigh/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 1,
+                        "startOffset": 508,
+                        "endColumn": 62,
+                        "endOffset": 569
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 795,
+                    "endColumn": 40,
+                    "endOffset": 831
+                },
+                "from": {
+                    "file": "/Users/yw/Documents/RunnersHigh/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 202,
+                        "endColumn": 37,
+                        "endOffset": 238
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 836,
+                    "endColumn": 38,
+                    "endOffset": 870
+                },
+                "from": {
+                    "file": "/Users/yw/Documents/RunnersHigh/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 1,
+                        "startOffset": 891,
+                        "endColumn": 35,
+                        "endOffset": 925
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 875,
+                    "endColumn": 36,
+                    "endOffset": 907
+                },
+                "from": {
+                    "file": "/Users/yw/Documents/RunnersHigh/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 168,
+                        "endColumn": 33,
+                        "endOffset": 200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 912,
+                    "endColumn": 59,
+                    "endOffset": 967
+                },
+                "from": {
+                    "file": "/Users/yw/Documents/RunnersHigh/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 1,
+                        "startOffset": 640,
+                        "endColumn": 56,
+                        "endOffset": 695
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, main!</string>
+    <string name="app_name">跑酷终结版<!-- RunnersHigh --></string>
+	<string name="score">分数</string>
+	<string name="hs_title">最高分</string>
+	<string name="hs_error_name_empty">名字不能为空 !</string>
+	<string name="hs_error_no_internet">网络没有链接 !</string>
+	<string name="hs_bttn_getonline">显示网上最高分数</string>
+	<string name="hs_bttn_getlocal">显示本地最高分数</string>
+	<string name="hs_bttn_pushOnline">Push Online</string>
+	<string name="hs_pushed_online">Score saved online !</string>
+	<string name="hs_already_pushed">Score is already online !</string>
+	<string name="visit_website">Visit our website</string>
+	<string name="hs_loading_local">loading local highscore...</string>
+	<string name="hs_loading_online">loading online highscore...</string>
+	<string name="hs_no_data">no data available</string>
+	<string name="info">酷跑终结版</string>
+</resources>
